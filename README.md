@@ -21,7 +21,7 @@ PHP library to connect and use garmin wellness api
 ```
 composer require stoufa06/php-garmin-connect-api
 ```
-#What's New From Main Branch
+# What's New From Main Branch
 Added code comments. Method getUserPermissions, dbg_api for tracking API calls
 
 # Example
