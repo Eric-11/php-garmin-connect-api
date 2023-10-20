@@ -2,6 +2,7 @@
 - [Table of contents](#table-of-contents)
 - [Description](#description)
 - [Installation](#installation)
+- [What's New From Main Branch](#whatsnew)
 - [Example](#example)
 - [Usage](#usage)
   - [Get authorization link](#get-authorization-link)
@@ -20,6 +21,9 @@ PHP library to connect and use garmin wellness api
 ```
 composer require stoufa06/php-garmin-connect-api
 ```
+#What's New From Main Branch
+Added code comments. Method getUserPermissions, dbg_api for tracking API calls
+
 # Example
 
 Please take a look at [examples](./examples/README.md) folder
